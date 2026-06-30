@@ -18,9 +18,6 @@
 - 📍 Punjab, India
 
 ---
-
-## 🛠️ Skills
-
 ## 🛠️ Tech Stack
 
 <p align="left">
