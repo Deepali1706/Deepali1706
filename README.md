@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Deepali </h1>
+<h1 align="center">Hi 👋, I'm Deepali </h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | B.Tech Student</h3>
 💻 Frontend Developer (Learning)
 
