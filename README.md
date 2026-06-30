@@ -21,11 +21,17 @@
 
 ## 🛠️ Skills
 
-- HTML5
-- CSS3
-- JavaScript (Learning)
-- Git & GitHub
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### 📚 Currently Learning
+
+- JavaScript
 - Responsive Web Design
+- UI/UX Design
 
 ---
 
