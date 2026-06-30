@@ -19,18 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepali1706&show_icons=true&theme=tokyonight" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepali1706&layout=compact&theme=tokyonight" />
-</p>
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Deepali1706&color=blue)
